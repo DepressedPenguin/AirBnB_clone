@@ -4,12 +4,6 @@ header
     height: 70px;
     width:100%;
     border-bottom: 1px #CCCCCC;
-}
-.logo
-{
     background-image: url(/images/logo.png);
-    width: 142px;
-    height: 60px;
-    margin-left: 20px;
     background-repeat: no-repeat;
 }
