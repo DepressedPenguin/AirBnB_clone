@@ -9,5 +9,5 @@ header
     border-bottom: 1px solid #CCCCCC;
     background-repeat: no-repeat;
     background-image: url(/images/logo.png);
-    margin-right: auto;
+    background-position: 15px 5px;
 }
